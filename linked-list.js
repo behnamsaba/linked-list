@@ -191,7 +191,7 @@ class LinkedList {
       current = current.next;
     }
 
-    return sum / this.length
+    return sum / this.length;
   }
 }
 
